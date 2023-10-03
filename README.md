@@ -1,2 +1,1 @@
-# toy_ds_project
-hello
+# project creation date: 3 october 2023
